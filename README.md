@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Live Demo & Links
-- **Live Demo:** [Deploy on Vercel / Netlify](https://hemidi-landing.vercel.app)
+- **Live Demo:** [Deploy on Vercel](https://hemidi-animated-landing.vercel.app)
 - **Figma Design:** [Landing Page (HeMeDi)](https://www.figma.com/design/Ey9fo39CDdpKfIPMBRqYTE/Landing-Page)
 - **3D Asset Source:** [Friendly Sci-Fi Robot with Animations (Sketchfab)](https://sketchfab.com/3d-models/friendly-sci-fi-robot-with-animations-b83ac12ac3f14119a0988532d3613dac)
 

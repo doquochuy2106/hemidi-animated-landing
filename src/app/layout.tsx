@@ -21,7 +21,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://hemidi-landing.vercel.app"),
+  metadataBase: new URL("https://hemidi-animated-landing.vercel.app"),
   title: "Sark - Leading SEO Agency | Growth & High Rankings",
   description: "Boost your organic visibility and search rankings with Sark, an intelligent SEO agency powered by cutting-edge animated creative technology.",
   keywords: ["SEO Agency", "Search Engine Optimization", "Rankings", "Digital Marketing", "HeMeDi", "Interactive 3D"],
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Sark - The Right SEO to Boost Your Rankings",
     description: "Smart digital solutions that boost search engine ranking and drive real organic growth.",
-    url: "https://hemidi-landing.vercel.app",
+    url: "https://hemidi-animated-landing.vercel.app",
     siteName: "Sark SEO Agency",
     images: [
       {
